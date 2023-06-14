@@ -64,5 +64,5 @@
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>
 <!--
-    PHP app new login
+    PHP app new login page
 -->
